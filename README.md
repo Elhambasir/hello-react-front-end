@@ -112,7 +112,7 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Collins Bawa**
+👤 **Basir Elham**
 
 - GitHub: [@Elhambasir](https://github.com/Elhambasir)
 - LinkedIn: [@Basirelham](https://www.linkedin.com/in/basirelhamahmadi/)
