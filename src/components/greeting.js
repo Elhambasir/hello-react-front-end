@@ -1,5 +1,4 @@
 import React, { useEffect } from 'react';
-// eslint-disable-next-line import/no-extraneous-dependencies
 import { useSelector, useDispatch } from 'react-redux';
 import { getGreetings } from '../features/greetings/greetingSlice';
 
