@@ -115,7 +115,7 @@ To run tests, run the following command:
 👤 **Basir Elham**
 
 - GitHub: [@Elhambasir](https://github.com/Elhambasir)
-- LinkedIn: [@Basirelham](https://www.linkedin.com/in/basirelhamahmadi/)
+- LinkedIn: [@Basir elham](https://www.linkedin.com/in/basirelhamahmadi/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
